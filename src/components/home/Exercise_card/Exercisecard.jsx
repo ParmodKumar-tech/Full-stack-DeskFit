@@ -2,7 +2,7 @@ import React, { useEffect, useState } from 'react';
 import './exercisecard.css';
 import axios from 'axios';
 import Card from './Card';
-import Hero from '../hero/hero';
+import Hero from '../hero/Hero';
 import { toast } from 'react-hot-toast';
 
 
