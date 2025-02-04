@@ -1,0 +1,155 @@
+[
+  
+    {
+      "name": "Cat-Cow Stretch (Spinal Mobility)",
+      "duration": "10-15 reps",
+      "gifAnimation":"",
+      "url":"",
+      "instructions": [
+        "Get on all fours with hands under shoulders and knees under hips.",
+        "Inhale, arch your back, drop your belly, and lift your head (Cow).",
+        "Exhale, round your back, tuck your chin towards your chest (Cat)."
+      ],
+      "focusArea": ["Spine", "Lower Back", "Shoulders"],
+      "commonMistakes": ["Moving too quickly", "Not syncing with breath"],
+      "breathingTips": ["Inhale as you arch (Cow)", "Exhale as you round (Cat)"]
+    },
+   
+    {
+      "name": "Hip Flexor Stretch (Lunge)",
+      "duration": "20-30 seconds per leg",
+      "gifAnimation":"",
+      "url":"",
+      "instructions": [
+        "Kneel on the ground and step one foot forward into a lunge position.",
+        "Shift your weight forward, keeping your chest upright and hips square."
+      ],
+      "focusArea": ["Hip Flexors", "Quadriceps"],
+      "commonMistakes": ["Leaning forward too much", "Arching the lower back"],
+      "breathingTips": ["Inhale as you set up", "Exhale as you deepen into the lunge"]
+    },
+    {
+      "name": "Child’s Pose (Lower Back Stretch)",
+      "duration": "30 seconds",
+      "gifAnimation":"",
+      "url":"",
+      "instructions": [
+        "Kneel on the floor with big toes touching and knees apart.",
+        "Sit back onto your heels, reach your hands forward, and lower your forehead to the floor."
+      ],
+      "focusArea": ["Lower Back", "Shoulders", "Hips"],
+      "commonMistakes": ["Keeping knees too close together", "Not relaxing shoulders"],
+      "breathingTips": ["Inhale deeply", "Exhale as you sink deeper into the pose"]
+    },
+    {
+      "name": "Chest Opener (Doorway Stretch)",
+      "duration": "20-30 seconds",
+      "gifAnimation":"",
+      "url":"",
+      "instructions": [
+        "Stand tall, clasp your hands behind your back, and straighten your arms.",
+        "Lift your arms slightly and open your chest."
+      ],
+      "focusArea": ["Chest", "Shoulders"],
+      "commonMistakes": ["Arching the lower back", "Straining the neck"],
+      "breathingTips": ["Inhale as you prepare", "Exhale as you lift and open the chest"]
+    },
+    {
+      "name": "Wrist Stretch",
+      "duration": "20-30 seconds per side",
+      "gifAnimation":"",
+      "url":"",
+      "instructions": [
+        "Extend right arm forward with palm up.",
+        "Use left hand to gently pull back on your fingers."
+      ],
+      "focusArea": ["Forearms", "Wrists"],
+      "commonMistakes": ["Pulling too hard", "Not keeping the arm straight"],
+      "breathingTips": ["Inhale as you prepare", "Exhale as you stretch"]
+    },
+    {
+      "name": "Glute Bridge (Hip Strengthening)",
+      "duration": "10-15 reps",
+      "gifAnimation":"",
+      "url":"",
+      "instructions": [
+        "Lie on your back with knees bent and feet flat.",
+        "Lift your hips towards the ceiling, squeezing your glutes."
+      ],
+      "focusArea": ["Glutes", "Lower Back"],
+      "commonMistakes": ["Overarching the back", "Letting knees fall outward"],
+      "breathingTips": ["Inhale as you lower", "Exhale as you lift"]
+    },
+
+    {
+      "name": "Kneeling Toe-Up Hamstring Stretch",
+      "duration": "Hold for 20-30 seconds per leg",
+      "gifAnimation": "",
+      "url": "",
+      "instructions": [
+        "Start in a kneeling position with one foot extended forward.",
+        "Flex the forward foot so the toes point upward.",
+        "Gently hinge at your hips to lean forward, keeping your back straight.",
+        "Feel the stretch along the hamstring of the extended leg."
+      ],
+      "focusArea": ["Hamstrings", "Calves", "Hips"],
+      "commonMistakes": [
+        "Rounding the back",
+        "Overstretching or forcing the movement",
+        "Keeping the toes relaxed instead of flexed upward"
+      ],
+      "breathingTips": [
+        "Inhale deeply before starting the stretch",
+        "Exhale slowly as you lean forward into the stretch"
+      ]
+    }
+,    
+    {
+      "name": "Standing Side Bend Stretch",
+      "duration": "15-30 seconds per side",
+      "gifAnimation":"",
+      "url":"",
+      "instructions": [
+        "Stand upright with feet shoulder-width apart, arms relaxed at your sides.",
+        "Raise one arm straight overhead, reaching upwards.",
+        "Lean your upper body to the opposite side of the lifted arm, keeping your torso aligned.",
+        "Hold the stretch for 15-30 seconds, breathing deeply.",
+        "Return to the starting position and repeat on the other side."
+      ],
+      "focusArea": ["Obliques", "Latissimus Dorsi", "Intercostal Muscles"],
+      "commonMistakes": [
+        "Twisting the torso instead of bending sideways",
+        "Overarching the lower back",
+        "Shrugging the shoulders"
+      ],
+      "breathingTips": [
+        "Breathe deeply throughout the stretch",
+        "Inhale as you prepare and raise your arm",
+        "Exhale as you lean into the stretch"
+      ]
+    },
+    {
+      "name": "Bicycle Crunch",
+      "duration": "10-15 reps per side",
+      "gifAnimation":"",
+      "url":"",
+      "instructions": [
+        "Lie flat on your back with your hands behind your head and legs extended.",
+        "Lift your shoulders off the floor and bring one knee toward your chest while twisting your torso to bring the opposite elbow towards the knee.",
+        "Extend the opposite leg straight out, keeping it a few inches above the ground.",
+        "Switch sides, bringing the other knee towards your chest while twisting to bring the opposite elbow towards it.",
+        "Continue alternating in a smooth, controlled motion as if pedaling a bicycle."
+      ],
+      "focusArea": ["Obliques", "Core", "Lower Abdominals", "Hip Flexors"],
+      "commonMistakes": [
+        "Pulling on the neck instead of twisting from the core",
+        "Using momentum instead of controlled movements",
+        "Allowing legs to drop too low, straining the lower back"
+      ],
+      "breathing_tips": [
+        "Exhale as you twist and bring your knee toward your elbow",
+        "Inhale as you switch sides"
+      ]
+    }
+  ]
+
