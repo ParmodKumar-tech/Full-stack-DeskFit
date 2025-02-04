@@ -15,7 +15,7 @@ function Signup() {
 
     let handleForm=async(formData)=>{
         setLoading(true);
-        await axios.post("http://localhost:4000/user/signup",formData)
+        await axios.post("https://backend-deskfit.vercel.app/user/signup",formData)
         .then((res)=>{
             if(res.data.success){
                     toast.success(res.data.message);
