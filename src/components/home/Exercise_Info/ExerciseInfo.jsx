@@ -17,7 +17,7 @@ function ExerciseInfo(){
         },[id])
     
     let getExerciseInfo=async()=>{
-            await axios.get(`http://localhost:4000/exercise-info/${id}`)
+            await axios.get(`https://backend-deskfit.vercel.app/exercise-info/${id}`)
             .then((res)=>{
                 if(res.data.success){
                     toast.success(res.data.message);
