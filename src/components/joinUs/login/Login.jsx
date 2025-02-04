@@ -21,7 +21,7 @@ function Login() {
         setLoading(true);
 
         try{
-            const res=await axios.post("http://localhost:4000/user/login",formData);
+            const res=await axios.post("https://backend-deskfit.vercel.app/user/login",formData);
         
                 if(res.data.success){
                     localStorage.setItem("token",res.data.token);
