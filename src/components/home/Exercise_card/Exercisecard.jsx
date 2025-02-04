@@ -14,7 +14,7 @@ function ExerciseCard(){
 
 
     let fetchExercises=async()=>{
-        await axios.get("http://localhost:4000/")
+        await axios.get("https://backend-deskfit.vercel.app/")
         .then((res)=>{
            
             if(res.status!==200){
